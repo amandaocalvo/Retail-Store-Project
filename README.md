@@ -11,4 +11,9 @@ To build the Sales table, it was necessary to think about the kind of purchases 
 
 In the relationship diagram, both tables are connected by the SaleID Primary Key, and the Transactions table is connected to the Products by a secondary key, ProductID. 
 
+![Dashboard Screenshot](./ERD_page-0001.jpg)
+
+
 Finally, all data was analyzed in Excel to create an interactive dashboard.
+
+![Dashboard Screenshot](./dashboard_page-0001.jpg)
